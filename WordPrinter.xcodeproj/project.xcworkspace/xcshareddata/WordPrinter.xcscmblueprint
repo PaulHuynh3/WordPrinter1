@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9729E983C6B99AA1A88CACCED60A8B96B14DE144",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9729E983C6B99AA1A88CACCED60A8B96B14DE144" : 9223372036854775807,
+    "4C20CD460806BBC2F46FD23D28B37BEF929E90C4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2C4E4F3-06D7-4240-AD0B-5C9E40BC7ADD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9729E983C6B99AA1A88CACCED60A8B96B14DE144" : "iOS-Delegates-2-WordPrinter\/",
+    "4C20CD460806BBC2F46FD23D28B37BEF929E90C4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WordPrinter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WordPrinter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PaulHuynh3\/WordPrinter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C20CD460806BBC2F46FD23D28B37BEF929E90C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Delegates-2-WordPrinter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9729E983C6B99AA1A88CACCED60A8B96B14DE144"
+    }
+  ]
+}
